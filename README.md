@@ -1,0 +1,10 @@
+![cover](https://imgur.com/5bWFMdN.gif)
+# Hello 👋!
+My name is Alaa Essam, i'm a software-engineer who is deeply in love with technology.
+## 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=009AEE) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=009AEE) ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=009AEE) ![](https://img.shields.io/badge/React-Redux-informational?style=flat&logo=Redux&logoColor=white&color=009AEE)
+![](https://img.shields.io/badge/Code-Node.Js-informational?style=flat&logo=node.js&logoColor=white&color=009AEE) ![](https://img.shields.io/badge/Code-Express-informational?style=flat&logo=node.js&logoColor=white&color=009AEE)   ![](https://img.shields.io/badge/Code-Electron-informational?style=flat&logo=Electron&logoColor=white&color=009AEE) ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=009AEE) ![](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=009AEE) ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=009AEE) ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=009AEE)
+
+## &#x1f4c8; GitHub Stats
+
+![Most Used Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=Super3laa&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=121212&langs_count=3) ![](https://github-readme-stats.vercel.app/api/pin/?username=Super3laa&repo=GUI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21) ![Status](https://github-readme-stats.vercel.app/api?username=Super3laa&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=121212)
