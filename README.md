@@ -1,4 +1,4 @@
-![cover](https://imgur.com/5bWFMdN.gif)
+![cover](https://imgur.com/pFSoRZI.png)
 # Hello 👋!
 My name is Alaa Essam, i'm a software-engineer who is deeply in love with technology.
 ## 🔧 Technologies & Tools
@@ -7,4 +7,4 @@ My name is Alaa Essam, i'm a software-engineer who is deeply in love with techno
 
 ## &#x1f4c8; GitHub Stats
 
-![Most Used Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=Super3laa&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=121212&langs_count=3) ![](https://github-readme-stats.vercel.app/api/pin/?username=Super3laa&repo=GUI&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21) ![Status](https://github-readme-stats.vercel.app/api?username=Super3laa&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=121212)
+![Most Used Langauges](https://github-readme-stats.vercel.app/api/top-langs/?username=Super3laa&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=121212&langs_count=3) ![Status](https://github-readme-stats.vercel.app/api?username=Super3laa&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=121212)
