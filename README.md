@@ -1,4 +1,4 @@
-![cover](https://imgur.com/pFSoRZI.png)
+![cover](https://imgur.com/69WzQ0F.png)
 # Hello 👋!
 My name is Alaa Essam, i'm a software-engineer who is deeply in love with technology.
 ## 🔧 Technologies & Tools
